@@ -1,7 +1,7 @@
 {
   "name": "lean-with-me",
-  "version": "1.2.0",
-  "description": "",
+  "version": "1.2.1",
+  "description": "LeanKit api client",
   "main": "leankit-client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
