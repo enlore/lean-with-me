@@ -1,6 +1,6 @@
 {
   "name": "lean-with-me",
-  "version": "1.3.11",
+  "version": "1.3.12",
   "description": "LeanKit api client",
   "main": "leankit-client.js",
   "scripts": {
