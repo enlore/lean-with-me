@@ -10,7 +10,7 @@ let board = new LeanKitBoard({
     pass: 'abcd1234',
     host: 'myaccount.leankit.com',
     port: 1234,
-    boardId: '01234567'
+    boardId: '012345678'
 })
 ```
 
@@ -20,7 +20,7 @@ let board = new LeanKitBoard({
     email: 'my.name@leankit.com',
     pass: 'abcd1234',
     url: 'myaccount.leankit.com',
-    boardId: '108628328',
+    boardId: '012345678',
     proxy: {                // Optional if you need to send request through a proxy
         host: 'my.company.proxy:1234',          // Required if using proxy
         user: 'myCompanyNetworkUsername',       // Optional, but may be necessary 
